@@ -14,7 +14,7 @@ Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub 
 
 *Historique des versions*   
 **0.99**: version initiale (3.02.2016)   
-**1.0** : ajout glossaire (14.02.2016)   
+**1.0**: ajout glossaire (14.02.2016)   
 
 ## Licence `CC BY`
 ![logo-CC-BY](img/by.svg)   
