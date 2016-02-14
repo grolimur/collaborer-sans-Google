@@ -40,7 +40,7 @@ Il est gratuit tant que vous n'avez pas plus d'un article privé. Une fois un ar
 Framapad et MoPad sont basés sur **Etherpad**, logiciel libre (licence Apache 2.0) d'écriture collaborative à installer chez choi.   
 À télécharger sur [http://etherpad.org/](http://etherpad.org/).   
 
-**ShareLaTeX** a d'abord été développé comme un outil d'écriture collaborative d'articles scientifiques en ligne. Le modèle économique de la version en ligne le rend moins intéressant qu'Authorea. Mais son code source a été ouvert en février 2014 qui permet à tout le monde de l'installer chez soi.   
+**ShareLaTeX** a d'abord été développé comme un outil d'écriture collaborative d'articles scientifiques en ligne. Le modèle économique de la version en ligne le rend moins intéressant qu'Authorea. Mais son code source a été ouvert (sous licence AGPL 3.0) en février 2014 qui permet à tout le monde de l'installer chez soi.   
 Le code et les instructions d'installation sont disponibles sur [https://github.com/sharelatex/sharelatex](https://github.com/sharelatex/sharelatex).   
 
 ---

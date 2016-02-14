@@ -91,7 +91,7 @@ Les outils en ligne peuvent être répartis en 4 niveaux.
 | :------- | :---------------: | :------: |
 | hébergement | x | . |
 | maintenance | x | . |
-| financement | ± précaire | . |
+| financement | ± précaire | (év.dons) |
 | contrôle des données | . | en grande partie |
 
 Vos données sont stockées à distance, mais le service choisi est respecteux (que ce soit sur le plan de la vie privée ou/et de la confidentialité). Par contre, le mode de financement (dons, p. ex.) ne garantit pas la pérennité à long terme du service.   
@@ -105,7 +105,7 @@ Vos données sont stockées à distance, mais le service choisi est respecteux (
 | :------- | :---------------: | :------: |
 | hébergement | x | . |
 | maintenance | x | . |
-| financement | assuré | . |
+| financement | . | contrat |
 | contrôle des données | . | en grande partie |
 
 Vos données sont stockées en local, mais gérées par un prestataire externe. Le financement du service est garanti par contrat.   

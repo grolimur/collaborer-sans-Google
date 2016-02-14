@@ -26,6 +26,10 @@ Le texte complet de la licence est disponible sur http://www.gnu.org/licenses/gp
 # ePub
 Le ePub est un format de livre électronique ouvert. En principe, il est pris en charge par toutes les liseuses, y compris les Kindle (ce qui n'a longtemps pas été le cas).   
 
+# MIT
+La licence MIT est une licence logicielle libre provenant du célèbre universtié américaine (Massachusetts Institute of Technology).   
+Le (court) texte de la licence est disponible sur https://opensource.org/licenses/mit-license.php [en anglais].   
+
 # Mobi
 Le Mobi est un format de livre électronique
 
