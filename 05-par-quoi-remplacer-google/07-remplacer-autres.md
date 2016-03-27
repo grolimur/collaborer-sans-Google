@@ -14,7 +14,7 @@ Si vous utilisez...
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| Inoreader | Innologica | BG | . | x | . | . |
+| [Inoreader](inoreader.com) | Innologica | BG | . | x | . | . |
 
 Comme déjà relevé, **Inoreader** possède des fonctionnalités de partage qui en font un outil de curation parfaitement crédible, même si c'est à la base (et avant tout) un outil de veille.   
 
@@ -31,7 +31,7 @@ Si vous utilisez...
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| Framadate | Framasoft | FR | . | x | . | . |
+| [Framadate](framadate.org) | Framasoft | FR | . | x | . | . |
 
 **Framadate** offre les mêmes fonctionnalités que Doodle, sauf la création d'un compte.   
 Pour gérer les sondages que vous avez créés, il suffit de toujours utiliser la même adresse e-mail.   
@@ -39,7 +39,7 @@ Pour gérer les sondages que vous avez créés, il suffit de toujours utiliser l
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| STUdS | Université de Strasbourg | FR | . | . | . | x |
+| [STUdS](https://sourcesup.cru.fr/projects/studs/) | Université de Strasbourg | FR | . | . | . | x |
 
 Framadate est basé sur **STUdS** est un logiciel libre (licence CeCILL-B) pour créer des sondages.   
 À télécharger sur [https://sourcesup.cru.fr/projects/studs/](https://sourcesup.cru.fr/projects/studs/).   
@@ -57,7 +57,7 @@ Si vous utilisez...
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| Piwik | Piwik | NZ | . | [x](http://piwik.org/hosting/) | . | [x](http://piwik.org/download/) |
+| [Piwik](piwik.org) | Piwik | NZ | . | [x](http://piwik.org/hosting/) | . | [x](http://piwik.org/download/) |
 
 Piwik est un logiciel libre (licence GNU GPLv3) de mesure de l'audience d'un site web. Vous le choix entre 2 solutions:   
 * Piwik Cloud, version en ligne (et payante) ;
@@ -76,7 +76,7 @@ Si vous utilisez...
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| Protonmail | Proton Technologies | CH | . | x | . | . |
+| [Protonmail](protonmail.com) | Proton Technologies | CH | . | x | . | . |
 
 **Protonmail** est un webmail basé en Suisse, gratuit et sécurisé. Les messages sont automatiquement chiffrés (ce qui les rend inutilisables en cas d'interception).   
 En raison de la forte demande, il faut actuellement s'inscrire et attendre une invitation de la part de Protonmail: [https://protonmail.com/](https://protonmail.com/).   
@@ -94,15 +94,15 @@ Si vous utilisez...
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| Framaboard | Framasoft | FR | . | x | . | . |
+| [Framaboard](framaboard.org) | Framasoft | FR | . | x | . | . |
 
 **Framaboard** est un outil de gestion de projet collaborative : [https://framaboard.org/](https://framaboard.org/).   
 
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| Kanboard | Frédéric Guillot | CA | . | . | . | x |
-| Wekan | Wekan Team | FR(?) | . | . | . | x |
+| [Kanboard](kanboard.net) | Frédéric Guillot | CA | . | . | . | x |
+| [Wekan](wekan.io) | Wekan Team | FR(?) | . | . | . | x |
 
 **Kanban** et **Wekan** sont des logiciels libres (licence MIT) de gestion de projet selon la méthodologie Kanban.   
 Le premier, sur lequel Framaboard est basé, peut être téléchargé sur [http://kanboard.net/](http://kanboard.net/).   
@@ -124,14 +124,14 @@ Si vous utilisez...
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| Framalink | Framasoft | FR | . | x | . | . |
+| [Framalink](https://frama.link) | Framasoft | FR | . | x | . | . |
 
 **Framalink** est le raccourcisseur d'urls de Framasoft. Il est librement accessible sur [https://frama.link/](https://frama.link/) et [https://huit.re/](https://huit.re/).
 
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| EPFL url shortener | Nicolas Borboën | CH | . | . | x | . |
+| [EPFL url shortener](go.epfl.ch) | Nicolas Borboën | CH | . | . | x | . |
 
 **Go.epfl.ch** est un exemple de raccourcisseur d'urls institutionnel.   
 La création d'urls courtes n'y est **possible que depuis les ordinateurs ayant une adresse IP de l'EPFL**.   
@@ -139,8 +139,8 @@ La création d'urls courtes n'y est **possible que depuis les ordinateurs ayant 
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| LSTU | Luc Didry | FR | . | x | . | x |
-| YOURLS | Ozh Richard | CA | . | . | . | x |
+| [LSTU](lstu.fr) | Luc Didry | FR | . | x | . | x |
+| [YOURLS](yourls.org) | Ozh Richard | CA | . | . | . | x |
 
 Framalink est basé sur **LSTU**, logiciel libre (licence WTFPL) de création d'urls courtes.   
 À télécharger depuis [https://git.framasoft.org/luc/lstu](https://git.framasoft.org/luc/lstu).

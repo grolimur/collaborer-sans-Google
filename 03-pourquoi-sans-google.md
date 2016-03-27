@@ -19,13 +19,20 @@ A contrario, "*l’utilisation de[s Services de Google] ne vous confère aucun d
 
 ([*source: Yahoo Terms of Service*](http://marker.to/UJC9cx))   
 
-Idem chez **Apple**:
+Les conditions d'utilisation d'**Apple** donnent un son de cloche identique:
 > "[...] *Apple ne revendique aucun droit sur les informations ou le Contenu que vous publiez ou mettez à disposition grâce au Service. Cependant, en publiant ce Contenu sur des parties du Service accessibles au public ou à d’autres utilisateurs avec lesquels vous acceptez de partager ce Contenu, vous concédez à Apple une licence pour le monde entier, à titre gratuit, non exclusive, d’utilisation, de distribution, de reproduction, de modification, d’adaptation, de publication, de traduction, d’exécution et de diffusion publique du Contenu sur le Service uniquement aux fins pour lesquelles un tel Contenu a été publié ou mis à disposition, sans aucune compensation ou obligation envers vous. Vous acceptez que tout contenu que vous publiez soit sous votre seule responsabilité [...]*"
 
 ([*source: Conditions générales iCloud*](http://marker.to/SEQBiZ))   
 
 En clair : vous faites tout le travail, prenez tous les risques et n'acceptez qu'une seule contrepartie: un accès gratuit au service.   
 Les conditions d'utilisation de beaucoup d'autres services en ligne sont de la même veine.   
+
+### L'affaire Apple contre FBI
+Pourtant, l'affaire qui a opposé Apple au FBI a montré que, si la firme de Cupertino est connue pour rendre les utilisateurs captifs de son système, Apple **ne cherche pas à faire de l'argent avec les données personnelles de ses utilisateurs**.   
+Pour avoir un résumé de l'affaire, lisez le billet de Tristan Nitot (fondateur de Mozilla Europe, anti-Apple mais encore plus anti-FBI dans cette affaire): [http://standblog.org/blog/post/2016/02/27/Apple-contre-FBI](http://standblog.org/blog/post/2016/02/27/Apple-contre-FBI). L'article inclut une vidéo si vous n'avez pas envie de lire...   
+Il y a aussi une présentation hilarante de l'affaire en vidéo: [http://boingboing.net/2016/03/14/john-oliver-on-apple-vs-fbi-an.html](http://boingboing.net/2016/03/14/john-oliver-on-apple-vs-fbi-an.html) (en anglais)   
+
+Il semble donc que GOogle ou Faceboook ne puisse pas être comparé à Apple ou Microsoft. Ces dernières ont des revenus liés à la vente d'appareils ou de licences, alors que les premières tirent leurs revenus de la publicité. Le respect de la vie privée n'est pas considéré de la même manière par un vendeur ou un publiciaire.   
 
 Si de telles conditions d'utilisation ne vous dérangent pas, voyons quelles garanties ces services vous offrent.
 
